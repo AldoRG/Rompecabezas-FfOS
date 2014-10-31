@@ -1,0 +1,15 @@
+{
+    "version": "1",
+    "name": "Rompecabezas",
+    "launch_path": "/index.html",
+    "description": "Juego Swipe para firefox os",
+    "icons": {
+        "128": "/img/logoRompe.png"
+    },
+    "developer": {
+        "name": "Aldo Ruiz",
+        "url": "www.facebook.com/AldoRuizG"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "es"
+}
